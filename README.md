@@ -3,8 +3,10 @@ A music bot for Discord.
 
 # How to use
 
-First install node.js (https://nodejs.org/en/)
+1. First install node.js (https://nodejs.org/en/)
 
-From bash, navigate to the repo directory and run 'npm install'
+2. Using windows command prompt, type 'cd C:/Users/User/path/to/musicBot' to navigate to the repo directory.
 
-Once your packages have installed, run 'node bot.js'.
+3. Run 'npm install'.
+
+4. Once your packages have installed, run 'node bot.js'.
